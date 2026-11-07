@@ -1,0 +1,9 @@
+Site SISCOST — HTML estático, sem dependências.
+
+Publicar na Vercel: arraste esta pasta em vercel.com/new (ou rode "npx vercel" dentro dela).
+
+Contato já configurado:
+  - WhatsApp (71) 99601-6625: botão flutuante, botão na seção Contato e formulário.
+    O formulário monta a mensagem com os campos preenchidos e abre a conversa no WhatsApp.
+  - E-mail: beatrizreisdev@gmail.com
+Para trocar o número, procure por 5571996016625 no index.html (aparece 3 vezes).
